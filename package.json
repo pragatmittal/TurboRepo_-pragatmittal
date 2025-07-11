@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "TurboRepo_@pragatmittal",
   "private": true,
   "scripts": {
     "build": "turbo run build",
